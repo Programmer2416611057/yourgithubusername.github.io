@@ -17,14 +17,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:111111
-  email:11111111111
-  facebook:111111111
-  flickr:111111
-  github:Programmer2416611057/yourgithubusername.github.io
-  instagram:23
-  linkedin:666
-  pinterest:444
+  dribbble: 111111
+  email: 11111111111
+  facebook: 111111111
+  flickr: 111111
+  github: Programmer2416611057/yourgithubusername.github.io
+  instagram: 23
+  linkedin: 666
+  pinterest: 444
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
